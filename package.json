@@ -1,6 +1,6 @@
 {
   "name": "@banh-me/pi-model-costs",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Per-1M-token model pricing in Pi's model picker. Overrides the built-in /model selector (or installs as a separate /model-costs command) and includes custom providers.",
   "keywords": [
     "pi-package",
